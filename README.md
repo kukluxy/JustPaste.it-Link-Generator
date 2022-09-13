@@ -1,2 +1,5 @@
-# JustPaste.it-Link-Generator
-JustPaste.it Link Generator and Saver
+JustPaste.it Link Generator
+
+
+Simple Bot for JustPaste.it
+
